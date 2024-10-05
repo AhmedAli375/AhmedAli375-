@@ -11,6 +11,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedali375&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedali375&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedali375)
