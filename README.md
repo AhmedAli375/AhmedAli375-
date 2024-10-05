@@ -7,4 +7,4 @@
 - 📫 How to reach me: [email@example.com](mailto:email@example.com)
 - ⚡ Fun fact: [something interesting]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-ahmedali375&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedali375&show_icons=true)
