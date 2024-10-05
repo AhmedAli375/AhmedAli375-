@@ -9,4 +9,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedali375&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedali375&show_icons=true&theme=radical)
